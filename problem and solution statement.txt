@@ -1,0 +1,14 @@
+Problem Statement:-We are living in the worst time our modern society has ever seen in terms of women security. 
+We aim to make women feel as strong as ever and strong enough to fight the parasites  of our society.
+
+Solution:-Help can be provided in one press of a button of the safety band.
+It works on radio frequency so cellular data, wifi or bluetooth are not needed.
+Live location will be detected and alert message will be sent to the police.
+Any police station, check post or patrolling parties are within 15-20 kms from us which is within the range of LoRa module. Help can be provided faster.
+
+Component used:-
+ARDUINO UNO
+LORA MODULE
+LCD DISPLAY
+GPS MODULE
+
